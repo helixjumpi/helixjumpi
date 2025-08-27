@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with: **Advanced React patterns & Next.js optimizations**  
 - 💬 Ask me about: **React, JavaScript, SQL, Python**  
 - 📫 How to reach me: **[egesah1n@hotmail.com](mailto:egesah1n@hotmail.com)**  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I started with hardware curiosity, but fell in love with coding 🚀  
 
 ---
