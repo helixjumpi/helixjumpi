@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ege Şahin  
+# Hi 👋, I'm Ege Sahin  
 
 💻 Passionate Frontend Developer | React & JavaScript Enthusiast  
 
